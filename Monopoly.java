@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Monoploy
+public class Monoplay
 {
     public static void main(String args[])
     {
